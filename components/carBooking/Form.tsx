@@ -120,7 +120,7 @@ const Form = ({ car }: any) => {
           {/* if there is a button, it will close the modal */}
           <button className="btn">Close</button>
           <button
-            className="btn bg-blue-500 text-white  hover:bg-blue-800"
+            className="btn bg-yellow-500 text-white  hover:bg-yellow-400"
             onClick={handleSubmit} 
           >
             Save
